@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders counter correctly 1`] = `
+<DocumentFragment>
+  <div>
+    <h2>
+      Contador
+    </h2>
+    <div>
+      <button>
+        -
+      </button>
+      <span>
+        0
+      </span>
+      <button>
+        +
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
